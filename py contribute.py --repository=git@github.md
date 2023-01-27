@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:devstar0703/Vinovest.git -sd="2019/04/11, 18:54:33" -nw
